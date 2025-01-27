@@ -33,7 +33,7 @@ Atualmente, estou desenvolvendo projetos em **Python**, **SQL** e outras tecnolo
 - **Linguagens de Programação**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 - **Frameworks**: ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
 - **APIs**: Google APIs, Vortex AI  
-- **Ferramentas**: GitHub  
+- **Ferramentas**: GitHub, ChatGPT, Vertex AI, Google Cloud Console  
 
 ---
 
