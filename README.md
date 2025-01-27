@@ -9,7 +9,6 @@
 
 ![DevBito's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevBito&show_icons=true&theme=radical)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBito&layout=compact&theme=radical)  
-![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=DevBito&theme=radical)
 
 ---
 
