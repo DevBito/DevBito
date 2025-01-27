@@ -5,11 +5,19 @@
 
 ---
 
+## Estatísticas do GitHub 📊
+
+![DevBito's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevBito&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBito&layout=compact&theme=radical)  
+![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=DevBito&theme=radical)
+
+---
+
 ## Sobre Mim 🚀
 
 Sou um profissional apaixonado por tecnologia e inovação, com experiência em desenvolvimento de software, inteligência artificial e engenharia de prompt. Minhas soluções são customizadas para aliar eficiência técnica e impacto estratégico.
 
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac São Paulo** e desenvolvendo projetos em **Python**, **SQL** e outras tecnologias.
+Atualmente, estou desenvolvendo projetos em **Python**, **SQL** e outras tecnologias para oferecer soluções práticas e inovadoras.
 
 ---
 
@@ -28,19 +36,6 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac
 - **APIs**: Google APIs, Vortex AI  
 - **Ferramentas**: GitHub  
 
-### Soft Skills:
-- Colaboração em equipes multidisciplinares
-- Soluções práticas e orientadas a resultados
-- Estabilidade e flexibilidade em ambientes estruturados
-
----
-
-## Formação Acadêmica 🎓
-
-- **Análise e Desenvolvimento de Sistemas** (Senac São Paulo, 2023-2025)
-- **Auxiliar de Enfermagem** (Sequencial Escola Técnica, 2021-2022)
-- **Eletromecânica** (Escola Profissionalizante Nossa Senhora de Fátima, 2018)
-
 ---
 
 ## Certificações 📜
@@ -49,13 +44,6 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac
 - **SQL: A Linguagem dos Bancos de Dados**
 - **Python Essentials 1**
 - **Excel Intermediário**
-
----
-
-## Estatísticas do GitHub 📊
-
-![DevBito's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevBito&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBito&layout=compact&theme=radical)
 
 ---
 
