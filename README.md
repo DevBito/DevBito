@@ -51,4 +51,3 @@ Atualmente, estou desenvolvendo projetos em **Python**, **SQL** e outras tecnolo
 - [LinkedIn](https://www.linkedin.com/in/gabriel-a837921a3)  
 - [GitHub](https://github.com/DevBito)  
 - [Portfolio na DIO](https://www.dio.me/users/gabrielgc765)  
-- **E-mail**: Gabriel@Devbito.com.br
