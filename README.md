@@ -1,6 +1,6 @@
 # Gabriel Cavalcanti - DevBito 👨‍💻
 
-**Python | SQL | Flask | JavaScript | Prompt para IA**  
+**Python | SQL | Flask | JavaScript | Learning Salesforce**  
 **São Paulo, Brasil**
 
 ---
